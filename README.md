@@ -1,5 +1,7 @@
 # The-Mad-Chemist #
 
+Class Group Project
+
 Our team wrote a program that calculates the atomic weight of simple molecules. The user provides a chemical formula like "NaCl" as a command line parameter. Our program calculates the weight of the molecule based on the weights of the individual atoms (found in the periodic table). The periodic table is provided for our program as a text file.
 
 When our program first begins, we do not know the identitity of the individual atoms in the molecular formula. It parses the molecular formula by breaking it apart into individual atoms and the count of each atom. Once the identity of each atom is known, the program looks up the masses in the periodic table and calculates the mass of the entire molecule.
